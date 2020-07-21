@@ -1,7 +1,7 @@
 ## Database > MySQL Instance > 사용 가이드
 
 ## 동영상 가이드
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s6km-0_THjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VSQzrFv6ZvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## MySQL Instance 생성
 
