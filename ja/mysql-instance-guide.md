@@ -106,7 +106,7 @@ shell> mysql -uroot -P[変更されたポート番号]
 
 ## my.cnf説明
 
-my.cnfのデフォルトのパスは /etc/my.cnf で、TOAST推奨変数(variable)が設定されています。内容は下記の通りです。
+my.cnfのデフォルトのパスは /etc/my.cnf で、NHN Cloud推奨変数(variable)が設定されています。内容は下記の通りです。
 
 | 名前 | 説明 |
 | --- | --- |
