@@ -106,7 +106,7 @@ shell> mysql -uroot -P[changed port number]
 
 ## Description of my.cnf 
 
-The default path of my.cnf is /etc/my.cnf, and ToastCloud recommended variables are set as below: 
+The default path of my.cnf is /etc/my.cnf, and NHN Cloud recommended variables are set as below: 
 
 | Name | Description |
 | --- | --- |
