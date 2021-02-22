@@ -109,7 +109,7 @@ shell> mysql -uroot -P[변경된 포트 번호]
 
 ## my.cnf 설명
 
-my.cnf 의 기본 경로는 /etc/my.cnf 이고 TOAST 권장 변수(variable)가 설정되어 있으며, 내용은 아래와 같습니다.
+my.cnf 의 기본 경로는 /etc/my.cnf 이고 NHN Cloud 권장 변수(variable)가 설정되어 있으며, 내용은 아래와 같습니다.
 
 | 이름 | 설명 |
 | --- | --- |
