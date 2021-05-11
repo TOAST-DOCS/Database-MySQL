@@ -4,13 +4,13 @@
 
 In order to use MySQL Instance service, you need to create an instance first.
 
-![mysqlinstance_en_01](https://user-images.githubusercontent.com/59556150/117772378-13045900-b272-11eb-940b-a99d88a1ae05.png)
+![mysqlinstance_01_201812_en](https://static.toastoven.net/prod_mysql/mysqlinstance_01_201812_en.png)
 
 Clicking on the Create MySQL Instance **Shortcut** button will redirect you to **Compute > Instance > Create Instance** page.
 
 There are two versions of MySQL provided.
 
-![mysqlinstance_en_02](https://user-images.githubusercontent.com/59556150/117772402-1992d080-b272-11eb-9d35-f2e702848e00.png)
+![mysqlinstance_02_201812_en](https://static.toastoven.net/prod_mysql/mysqlinstance_02_201812_en.png)
 
 * MySQL Community Server 5.6.38
     * mysql-community-server-5.6.38-2.el6.x86_64
@@ -23,7 +23,7 @@ For additional information on creating an instance, please refer to [Instance Ov
 When an instance is created, use SSH to connect to the instance.
 A Floating IP must be associated with the instance and TCP port 22(SSH) should be added as a rule in Security Groups.
 
-![mysqlinstance_en_03](https://user-images.githubusercontent.com/59556150/117772416-1bf52a80-b272-11eb-8169-75e3fbc1a729.png)
+![mysqlinstance_03_201812_en](https://static.toastoven.net/prod_mysql/mysqlinstance_03_201812_en.png)
 
 Use SSH client along with the key pair provided to access the instance.
 For detailed guide on SSH connection, please refer to [SSH Connection Guide](https://docs.toast.com/en/Compute/Instance/en/overview/#linux).
