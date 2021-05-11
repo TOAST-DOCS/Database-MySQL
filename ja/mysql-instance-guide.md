@@ -4,13 +4,13 @@
 
 MySQLを使用するために、先にインスタンスを作成する必要があります。
 
-![mysqlinstance_01_201812](https://static.toastoven.net/prod_mysql/mysqlinstance_01_201812_en.png)
+![mysqlinstance_en_01](https://user-images.githubusercontent.com/59556150/117771593-38dd2e00-b271-11eb-8207-c193fca44b8f.png)
 
 MySQL Instance作成 **ショートカット**ボタンをクリックすると **Compute > Instance >インスタンス作成** に進みます。
 
 MySQLバージョンは、次の2種類が提供されます。
 
-![mysqlinstance_02_201812](https://static.toastoven.net/prod_mysql/mysqlinstance_02_201812_en.png)
+![mysqlinstance_en_02](https://user-images.githubusercontent.com/59556150/117771618-3e3a7880-b271-11eb-91ba-57578e357a7b.png)
 
 * MySQL Community Server 5.6.38
     * mysql-community-server-5.6.38-2.el6.x86_64
@@ -23,7 +23,7 @@ MySQLイメージを選択し、追加設定完了後にインスタンスを作
 インスタンス作成完了後にSSHを使用して、インスタンスにアクセスします。
 インスタンスにFloating IPが接続されていて、セキュリティーグループでTCPポート22(SSH)が許可されている必要があります。
 
-![mysqlinstance_03_201812](https://static.toastoven.net/prod_mysql/mysqlinstance_03_201812_en.png)
+![mysqlinstance_en_03](https://user-images.githubusercontent.com/59556150/117771639-42669600-b271-11eb-9769-14081139d972.png)
 
 SSHクライアントと設定したキーペアを利用してインスタンスに接続します。
 SSH接続の詳細ガイドは[SSH接続ガイド](https://docs.toast.com/ja/Compute/Instance/ja/overview/#linux)を参照してください。
