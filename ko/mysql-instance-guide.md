@@ -7,13 +7,13 @@
 
 MySQL을 사용하기 위해서 먼저 인스턴스를 생성해야합니다.
 
-![mysqlinstance_01_201812](https://static.toastoven.net/prod_mysql/mysqlinstance_01_201812.png)
+![mysqlinstance_ko_01](https://user-images.githubusercontent.com/59556150/117772096-c7ea4600-b271-11eb-9a5f-133401d6894d.png)
 
 MySQL Instance 생성하기 **바로가기** 버튼을 클릭하면 **Compute > Instance > 인스턴스 생성** 으로 넘어갑니다.
 
 MySQL 버전은 다음과 같이 2가지 종류가 제공됩니다.
 
-![mysqlinstance_02_201812](https://static.toastoven.net/prod_mysql/mysqlinstance_02_201812.png)
+![mysqlinstance_ko_02](https://user-images.githubusercontent.com/59556150/117772112-cae53680-b271-11eb-88ad-64d8cc2db7f4.png)
 
 * MySQL Community Server 5.6.38
     * mysql-community-server-5.6.38-2.el6.x86_64
@@ -26,7 +26,7 @@ MySQL 이미지 선택 후 추가 설정 완료 후 인스턴스를 생성합니
 인스턴스 생성 완료 후 SSH를 사용하여 인스턴스에 접근합니다.
 인스턴스에 Floating IP가 연결되어있어야 하며 보안그룹에서 TCP 포트 22(SSH)가 허용되어야 합니다.
 
-![mysqlinstance_03_201812](https://static.toastoven.net/prod_mysql/mysqlinstance_03_201812.png)
+![mysqlinstance_ko_03](https://user-images.githubusercontent.com/59556150/117772159-d8022580-b271-11eb-915d-f4489a0b79d4.png)
 
 SSH 클라이언트와 설정한 키페어를 이용해 인스턴스에 접속 합니다. 
 SSH 연결에 대한 자세한 가이드는 [SSH 연결 가이드](https://docs.toast.com/ko/Compute/Instance/ko/overview/#linux)를 참고하시기 바랍니다.
