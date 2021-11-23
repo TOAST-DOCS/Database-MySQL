@@ -131,4 +131,4 @@ Directory and file description of MySQL are as below:
 | SLOW_LOG | Path for MySQL Slow Query File -  <span style="color:#333333">/var/lib/mysql/*slow.log</span> |
 
 
-> For detailed release status of MySQL Instance, please refer to [Instance Release Notes](http://alpha-docs.toast.com/en/Compute/Compute/en/release-notes/).
+> For detailed release status of MySQL Instance, please refer to [Instance Release Notes](/Compute/Compute/en/release-notes/).
