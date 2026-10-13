@@ -18,7 +18,7 @@ MySQLバージョンは、次の2種類が提供されます。
     * mysql-community-server-5.7.20-1.el6.x86_64
 
 MySQLイメージを選択し、追加設定完了後にインスタンスを作成します。
-インスタンス作成については、[Instance概要](http://docs.toast.com/ja/Compute/Instance/ja/overview/)を参照してください。
+インスタンス作成については、[Instance概要](https://docs.nhncloud.com/ja/Compute/Instance/ja/overview/)を参照してください。
 
 インスタンス作成完了後にSSHを使用して、インスタンスにアクセスします。
 インスタンスにFloating IPが接続されていて、セキュリティーグループでTCPポート22(SSH)が許可されている必要があります。
@@ -26,7 +26,7 @@ MySQLイメージを選択し、追加設定完了後にインスタンスを作
 ![mysqlinstance_03_201812_en](https://static.toastoven.net/prod_mysql/mysqlinstance_03_201812_en.png)
 
 SSHクライアントと設定したキーペアを利用してインスタンスに接続します。
-SSH接続の詳細ガイドは[SSH接続ガイド](https://docs.toast.com/ja/Compute/Instance/ja/overview/#linux)を参照してください。
+SSH接続の詳細ガイドは[SSH接続ガイド](https://docs.nhncloud.com/ja/Compute/Instance/ja/overview/#linux)を参照してください。
 
 ## MySQL起動/停止方法
 

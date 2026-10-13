@@ -18,7 +18,7 @@ There are two versions of MySQL provided.
     * mysql-community-server-5.7.20-1.el6.x86_64
 
 Choose MySQL Image and complete additional settings to create an instance.
-For additional information on creating an instance, please refer to [Instance Overview](http://docs.toast.com/en/Compute/Instance/en/overview/).
+For additional information on creating an instance, please refer to [Instance Overview](https://docs.nhncloud.com/en/Compute/Instance/en/overview/).
 
 When an instance is created, use SSH to connect to the instance.
 A Floating IP must be associated with the instance and TCP port 22(SSH) should be added as a rule in Security Groups.
@@ -26,7 +26,7 @@ A Floating IP must be associated with the instance and TCP port 22(SSH) should b
 ![mysqlinstance_03_201812_en](https://static.toastoven.net/prod_mysql/mysqlinstance_03_201812_en.png)
 
 Use SSH client along with the key pair provided to access the instance.
-For detailed guide on SSH connection, please refer to [SSH Connection Guide](https://docs.toast.com/en/Compute/Instance/en/overview/#linux).
+For detailed guide on SSH connection, please refer to [SSH Connection Guide](https://docs.nhncloud.com/en/Compute/Instance/en/overview/#linux).
 
 ## Starting/Stopping MySQL 
 
